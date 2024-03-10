@@ -40,5 +40,4 @@ This repository contains code on support vector machine (SVM) to classify images
 2) Used Jupiter Notebook for Python Coding.
 
 ## Techniques:
-The following techniques are implemented in this project:
-- support vector machine (SVM)
+ support vector machine (SVM) technique is implemented in this project.
