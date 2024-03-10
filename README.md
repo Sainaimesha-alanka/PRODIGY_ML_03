@@ -1,6 +1,8 @@
 # PRODIGY_ML_03
 ML Internship at ProdigyInfoTech
 Task - 03 ( support vector machine (SVM) to classify images of cats and dogs)
+
+
 This repository contains code on support vector machine (SVM) to classify images of cats and dogs from the Kaggle dataset.
 
 ## Algorithm:
